@@ -24,7 +24,10 @@
   "homepage": "https://github.com/Z3rio/fivem-blips-scraper#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
+    "image-size": "^1.0.2",
+    "inquirer": "^8.0.0",
     "request": "^2.88.2",
-    "request-promise": "^4.2.6"
+    "request-promise": "^4.2.6",
+    "require": "^2.4.20"
   }
 }
