@@ -12,3 +12,6 @@ Then open a console window in that folder and run `npm install`.
 
 Open the console window in the folder you unpacked all files into and run `npm run build`.<br>
 This will open a prompt where you can choose what you want to do.
+<br><br>
+After running the build process all images will be exported to the `./images` folder.<br>
+If you chose to also create a config for zerio-dispatch it will be named "`SharedBlips.lua`"
