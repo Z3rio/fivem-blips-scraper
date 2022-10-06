@@ -1,3 +1,4 @@
+![Logo](https://user-images.githubusercontent.com/54480523/194373196-043b8ae8-7a3b-4541-8fec-e8e28cbaeb9e.png)
 # Fivem Blips Scraper
 
 This is a tool created to scrape blips / markers from the fivem documentation.<br>
