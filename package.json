@@ -1,0 +1,30 @@
+{
+  "name": "fivem-blips-scraper",
+  "version": "1.0.0",
+  "description": "This is a tool made to scrape blips / markers from the fivem documentation.",
+  "main": "main.js",
+  "scripts": {
+    "build": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Z3rio/fivem-blips-scraper.git"
+  },
+  "keywords": [
+    "fivem",
+    "blips",
+    "javascript",
+    "zerio"
+  ],
+  "author": "Zerio#0880",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Z3rio/fivem-blips-scraper/issues"
+  },
+  "homepage": "https://github.com/Z3rio/fivem-blips-scraper#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
